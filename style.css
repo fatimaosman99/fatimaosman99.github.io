@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Kirang+Haerang&display=swap');
+html, body {
+    background-color: pink;
+    font-family: 'Kirang Haerang', cursive;
+    color: #000;
+    
+}
+body h1 {
+    color: coral;
+    margin: 20px 30px
+}
+#main-header {
+    
+    border-bottom: 2px solid coral ;
+    border-color: coral;
+    border-width: thick;
+}
